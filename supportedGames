@@ -1,3 +1,3 @@
 getgenv().Games = {
-    [13230182363] = "https://raw.githubusercontent.com/kodabkr/plus1clicker/main/main.Lua", --// Raw Link
+    [13230182363] = "https://raw.githubusercontent.com/kodabkr/plus1clicker/main/main.Lua"
 }
