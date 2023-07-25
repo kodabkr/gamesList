@@ -1,0 +1,3 @@
+getgenv().Games = {
+    [GameID] = "GitHubRawLink",
+}
